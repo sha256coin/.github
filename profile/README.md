@@ -40,6 +40,17 @@ SHA256coin (S256) is a cryptocurrency built on the proven SHA256 proof-of-work a
 
 Download the wallet from our [website](https://sha256coin.eu) or build from source using the repositories above.
 
+## Contributing
+
+We welcome contributions from the community! Whether you're a developer, designer, or enthusiast:
+
+- **Report bugs** or suggest features by opening an issue
+- **Submit pull requests** to improve the codebase
+- **Help with documentation** or translations
+- **Spread the word** about SHA256coin
+
+Check out our repositories above and pick one to contribute to. All skill levels are welcome!
+
 ## License
 
 All repositories are released under the MIT License.
