@@ -25,7 +25,7 @@ SHA256coin (S256) is a cryptocurrency built on the proven SHA256 proof-of-work a
 
 | Repository | Description |
 |------------|-------------|
-| [wallet](https://github.com/sha256coin/wallet) | Mobile wallet for Android & iOS (Flutter) |
+| [wallet](https://github.com/sha256coin/android-wallet) | Mobile wallet for Android & iOS (Flutter) |
 | [web-wallet](https://github.com/sha256coin/web-wallet) | Browser-based web wallet (Flutter Web) |
 | [explorer](https://github.com/sha256coin/explorer) | Block explorer with MongoDB backend (Node.js) |
 | [website](https://github.com/sha256coin/website) | Official website (Node.js/Express) |
