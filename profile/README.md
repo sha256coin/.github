@@ -34,7 +34,7 @@ SHA256coin (S256) is a cryptocurrency built on the proven SHA256 proof-of-work a
 
 - **Website**: [sha256coin.eu](https://sha256coin.eu)
 - **Explorer**: [explorer.sha256coin.eu](https://explorer.sha256coin.eu)
-- **Whitepaper**: [Download PDF](https://www.sha256coin.eu/whitepaper.html)
+- **Whitepaper**: [Download PDF](https://raw.githubusercontent.com/sha256coin/.github/main/public/whitepaper.pdf)
 
 ## Getting Started
 
